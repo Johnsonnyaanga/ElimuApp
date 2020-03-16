@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ElimuApp</string>
+    <string name="skillprompt">skillprompt</string>
+    <string-array name="skillset">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>English</item>
+        <item>Kiswahili</item>
+        <item>Chemistry</item>
+        <item>Business</item>
+        <item>Programming </item>
+        <item>Geography</item>
+
+    </string-array>
+
 </resources>

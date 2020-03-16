@@ -189,15 +189,13 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1">
-            <TextView
+            <Spinner
+                android:id="@+id/skillsetspinner"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Skill"
-                android:textAppearance="?android:textAppearanceMedium"
-                android:padding="5dp"
-                android:layout_margin="10dp"
-                />
-            
+                android:entries="@array/skillset"
+                android:prompt="@string/skill_prompt" />
+
         </RelativeLayout>
         <RelativeLayout
             android:layout_width="0dp"
