@@ -189,25 +189,16 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1">
+
             <Spinner
                 android:id="@+id/skillsetspinner"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:entries="@array/skillset"
-                android:prompt="@string/skill_prompt" />
+                android:prompt="@string/skillprompt" />
 
         </RelativeLayout>
-        <RelativeLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="2">
-            <EditText
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:id="@+id/tutor_skill"
-                />
-        </RelativeLayout>
+
     </LinearLayout>
 
     </LinearLayout>
