@@ -33,6 +33,7 @@
                 android:text="Full name"
                 android:textAppearance="?android:textAppearanceMedium"
                 android:padding="5dp"
+
                 android:layout_margin="10dp"
                 />
         </RelativeLayout>

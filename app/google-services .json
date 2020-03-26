@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88672912781",
+    "firebase_url": "https://elimuapp-9e84b.firebaseio.com",
+    "project_id": "elimuapp-9e84b",
+    "storage_bucket": "elimuapp-9e84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88672912781:android:79a118c5f7b1eca340a9c4",
+        "android_client_info": {
+          "package_name": "com.example.elimuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88672912781-rr45g1c67oku9bsnu2bl5dbaat4mnp8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRiKpL8isyH2UqFGwcG_sR9TE1eIWJSbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88672912781-rr45g1c67oku9bsnu2bl5dbaat4mnp8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
